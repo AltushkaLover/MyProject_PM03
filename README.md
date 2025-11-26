@@ -38,8 +38,8 @@ python employee_system.py
 
 ```
 attendance-system/
-├── admin_system.py      # Программа администратора
-├── employee_system.py   # Программа сотрудника
+├── app.py      # Программа администратора
+├── main.py     # Программа сотрудника
 ├── attendance.db        # База данных
 └── README.md
 ```
